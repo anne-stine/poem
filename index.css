@@ -1,0 +1,25 @@
+body {
+    background: rgb(146, 118, 98);
+    color: rgb(14, 12, 12);
+    font-family: 'EB Garamond', serif;
+    font-size: 25px;
+    align-items: center;
+}
+
+.author {
+    font-style: italic;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 50px;
+    margin: 0;
+}
+
+.container {
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+    border: 2px solid rgb(14, 12, 12);
+    padding: 50px;
+}
